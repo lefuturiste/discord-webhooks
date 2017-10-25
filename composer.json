@@ -1,5 +1,5 @@
 {
-    "name": "nopjmp/discord-webhooks",
+    "name": "lefuturiste/discord-webhooks",
     "description": "A simple Discord webhook client library.",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "ext-curl": "*",
         "php": ">=5.4"
     },
     "autoload": {
